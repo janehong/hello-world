@@ -1,2 +1,4 @@
 # hello-world
-Just testing
+
+Hello - trying out new github features
+Next step try in Working Copy
